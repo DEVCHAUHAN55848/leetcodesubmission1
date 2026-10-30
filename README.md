@@ -35,4 +35,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0445-add-two-numbers-ii) |
+## Array
+|  |
+| ------- |
+| [1394-find-lucky-integer-in-an-array](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/1394-find-lucky-integer-in-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [1394-find-lucky-integer-in-an-array](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/1394-find-lucky-integer-in-an-array) |
+## Counting
+|  |
+| ------- |
+| [1394-find-lucky-integer-in-an-array](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/1394-find-lucky-integer-in-an-array) |
 <!---LeetCode Topics End-->
