@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0704-binary-search) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Hash Table
@@ -51,5 +52,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
