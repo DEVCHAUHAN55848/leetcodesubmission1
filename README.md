@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0704-binary-search) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Hash Table
@@ -55,5 +56,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
