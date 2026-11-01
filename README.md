@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0704-binary-search) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -58,10 +59,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0704-binary-search) |
 ## Newton's Method
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0069-sqrtx) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
