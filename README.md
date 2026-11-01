@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Hash Table
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Newton's Method
 |  |
 | ------- |
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0074-search-a-2d-matrix) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
