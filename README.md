@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0074-search-a-2d-matrix) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0069-sqrtx) |
