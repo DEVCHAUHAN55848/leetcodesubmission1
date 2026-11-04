@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0394-decode-string) |
 ## Linked List
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0231-power-of-two) |
 | [0445-add-two-numbers-ii](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0445-add-two-numbers-ii) |
 ## Array
 |  |
@@ -83,4 +85,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0029-divide-two-integers) |
+| [0231-power-of-two](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
