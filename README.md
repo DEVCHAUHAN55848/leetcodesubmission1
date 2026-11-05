@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0005-longest-palindromic-substring) |
+| [0387-first-unique-character-in-a-string](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0394-decode-string) |
 ## Dynamic Programming
 |  |
@@ -54,10 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0387-first-unique-character-in-a-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0387-first-unique-character-in-a-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Binary Search
 |  |
@@ -88,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0231-power-of-two) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/1018-binary-prefix-divisible-by-5) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
