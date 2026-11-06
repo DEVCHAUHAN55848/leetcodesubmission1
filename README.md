@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0005-longest-palindromic-substring) |
+| [0148-sort-list](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0148-sort-list) |
 ## String
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0148-sort-list) |
 | [0445-add-two-numbers-ii](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0445-add-two-numbers-ii) |
 ## Math
 |  |
@@ -95,4 +97,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0387-first-unique-character-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0148-sort-list) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
