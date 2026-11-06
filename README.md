@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0005-longest-palindromic-substring) |
+| [0079-word-search](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0079-word-search) |
 | [0387-first-unique-character-in-a-string](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0394-decode-string) |
 ## Dynamic Programming
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0079-word-search) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0079-word-search) |
 ## Ternary Search
 |  |
 | ------- |
@@ -109,4 +112,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0148-sort-list) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
