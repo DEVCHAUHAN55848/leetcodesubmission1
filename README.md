@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0079-word-search) |
 | [0136-single-number](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0493-reverse-pairs](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0493-reverse-pairs](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Newton's Method
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0493-reverse-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0493-reverse-pairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -124,4 +128,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0079-word-search) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
