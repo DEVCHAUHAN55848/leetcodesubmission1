@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0079-word-search) |
+| [0136-single-number](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0231-power-of-two) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Queue
