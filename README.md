@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0005-longest-palindromic-substring) |
+| [0043-multiply-strings](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0043-multiply-strings) |
 | [0079-word-search](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0079-word-search) |
 | [0344-reverse-string](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0387-first-unique-character-in-a-string) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0043-multiply-strings) |
 | [0069-sqrtx](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0231-power-of-two) |
 | [0445-add-two-numbers-ii](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0445-add-two-numbers-ii) |
@@ -144,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0493-reverse-pairs) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/DEVCHAUHAN55848/leetcodesubmission1/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
